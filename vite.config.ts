@@ -9,7 +9,4 @@ export default defineConfig({
     outDir: "dist",
     assetsDir: "assets",
   },
-  server: {
-    historyApiFallback: true,
-  },
 });
